@@ -89,6 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/logan2g/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/logan2g/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/logan2g/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
+    vendor/samsung/logan2g/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/logan2g/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml \
     vendor/samsung/logan2g/proprietary/etc/audio_para:system/etc/audio_para \
     vendor/samsung/logan2g/proprietary/etc/codec_pga.xml:system/etc/codec_pga.xml \
